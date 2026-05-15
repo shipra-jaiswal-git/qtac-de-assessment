@@ -1,0 +1,15 @@
+course_code,course_name,institution_code,institution_name,campus,study_mode,duration_years,atar_cutoff,csp_available,active_flag
+CQU-ENG1,Bachelor of Engineering,CQU,CQUniversity,Rockhampton,Full-time,4,65,True,False
+GU-EDU01,Bachelor of Education (Primary),GU,Griffith University,Mt Gravatt,Full-time,4,74,True,True
+GU-NURS1,Bachelor of Nursing,GU,Griffith University,Gold Coast,Full-time,3,72,True,True
+GU-PSYC1,Bachelor of Psychological Science,GU,Griffith University,Mt Gravatt,Full-time,3,75.5,True,True
+JCU-MED1,Bachelor of Medicine,JCU,James Cook University,Townsville,Full-time,6,99,True,True
+QUT-BS001,Bachelor of Science,QUT,Queensland University of Technology,Gardens Point,Full-time,3,70,True,True
+QUT-BU001,Bachelor of Business,QUT,Queensland University of Technology,Gardens Point,Full-time,3,75,True,True
+QUT-DS001,Bachelor of Data Science,QUT,Queensland University of Technology,Gardens Point,full-time,3,82,True,True
+SCU-LAW1,Bachelor of Laws,SCU,Southern Cross University,Gold Coast,Full-time,4,,True,True
+UQ-ARTS1,Bachelor of Arts,UQ,The University of Queensland,St Lucia,Full-time,3,71,True,True
+UQ-COMP1,Bachelor of Computer Science,UQ,The University of Queensland,St Lucia,Full-time,3,84,True,True
+UQ-ENG01,Bachelor of Engineering (Honours),UQ,The University of Queensland,St Lucia,Full-time,4,89.5,True,True
+USQ-AGR01,Bachelor of Agriculture,USQ,University of Southern Queensland,Toowoomba,Part-time,4,55,False,True
+USQ-IT001,Bachelor of Information Technology,USQ,University of Southern Queensland,Toowoomba,Full-time,3,60,True,True

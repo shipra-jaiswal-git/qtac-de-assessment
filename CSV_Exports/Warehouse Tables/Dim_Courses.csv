@@ -1,0 +1,15 @@
+course_sk,course_code,course_name,institution_code,institution_name,campus,study_mode,duration_years,atar_cutoff,csp_available,active_flag,effective_start_date,effective_end_date,is_current
+43,CQU-ENG1,Bachelor of Engineering,CQU,CQUniversity,Rockhampton,Full-time,4,65,1,0,2026-05-14,9999-12-31,1
+44,GU-EDU01,Bachelor of Education (Primary),GU,Griffith University,Mt Gravatt,Full-time,4,74,1,1,2026-05-14,9999-12-31,1
+45,GU-NURS1,Bachelor of Nursing,GU,Griffith University,Gold Coast,Full-time,3,72,1,1,2026-05-14,9999-12-31,1
+46,GU-PSYC1,Bachelor of Psychological Science,GU,Griffith University,Mt Gravatt,Full-time,3,75.5,1,1,2026-05-14,9999-12-31,1
+47,JCU-MED1,Bachelor of Medicine,JCU,James Cook University,Townsville,Full-time,6,99,1,1,2026-05-14,9999-12-31,1
+48,QUT-BS001,Bachelor of Science,QUT,Queensland University of Technology,Gardens Point,Full-time,3,70,1,1,2026-05-14,9999-12-31,1
+49,QUT-BU001,Bachelor of Business,QUT,Queensland University of Technology,Gardens Point,Full-time,3,75,1,1,2026-05-14,9999-12-31,1
+50,QUT-DS001,Bachelor of Data Science,QUT,Queensland University of Technology,Gardens Point,full-time,3,82,1,1,2026-05-14,9999-12-31,1
+51,SCU-LAW1,Bachelor of Laws,SCU,Southern Cross University,Gold Coast,Full-time,4,NULL,1,1,2026-05-14,9999-12-31,1
+52,UQ-ARTS1,Bachelor of Arts,UQ,The University of Queensland,St Lucia,Full-time,3,71,1,1,2026-05-14,9999-12-31,1
+53,UQ-COMP1,Bachelor of Computer Science,UQ,The University of Queensland,St Lucia,Full-time,3,84,1,1,2026-05-14,9999-12-31,1
+54,UQ-ENG01,Bachelor of Engineering (Honours),UQ,The University of Queensland,St Lucia,Full-time,4,89.5,1,1,2026-05-14,9999-12-31,1
+55,USQ-AGR01,Bachelor of Agriculture,USQ,University of Southern Queensland,Toowoomba,Part-time,4,55,0,1,2026-05-14,9999-12-31,1
+56,USQ-IT001,Bachelor of Information Technology,USQ,University of Southern Queensland,Toowoomba,Full-time,3,60,1,1,2026-05-14,9999-12-31,1
