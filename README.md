@@ -7,6 +7,7 @@ I chose Kimball dimensional modelling with SCD Type 2. The reason is it provides
 Surrogate keys ensure the fact links to the correct historical version of dimension data.
 
 **Data quality issues**
+
 Applicant Table-
 1.	Applicant_id = 1002 appears multiple times in applicants_update --pick the latest based on latest update date
 2.	Last name and State changed for 1002 and 1005 so we need to implement SCD 2 to have the history
@@ -40,8 +41,12 @@ Courses –
 **Ingestion Flow:**
 
 •	STG_Applicant + SCD2 logic → DIM_Applicants 
+
 •	STG_Courses + SCD2 logic → DIM_Courses
+
 •	STG_Qualifications → DIM_Qualifications
+
 •	STG_Preferences + DIM_Applicants + DIM_Courses + DIM_Qualifications → FACT_Application
+
 •	Final Outcome is derived from FACT_Application table joining with multiple dimensions.
 
